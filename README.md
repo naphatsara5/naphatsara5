@@ -29,20 +29,23 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=naphatsara5&show_icons=true&theme=radial" alt="Naphatsara's GitHub stats" />
-</a>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=naphatsara5&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naphatsara5&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+<br/><br/>
 
-<!-- Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naphatsara5&layout=compact&theme=radial" alt="Top Langs" />
-</a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naphatsara5&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
 
 
 ---
+
 
 <div align="center">
 
