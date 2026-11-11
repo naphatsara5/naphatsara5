@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thammarat-ai&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naphatsara5-ai&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
+
+
 
