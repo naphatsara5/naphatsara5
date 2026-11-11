@@ -19,10 +19,10 @@
 
 > **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
 
-🎓 2nd-year Computer Science student at University of Phayao 🐎
-💻 Passionate about Web & Mobile App Development
-💬 Always open to discussing tech ideas, feedback, and tech stack trends!
-🚀 Building projects and continuously learning new technologies.
+*🎓** 2nd-year Computer Science student at University of Phayao 🐎
+*💻** Passionate about Web & Mobile App Development
+*💬** Always open to discussing tech ideas, feedback, and tech stack trends!
+*🚀** Building projects and continuously learning new technologies.
 <!--
 **naphatsara5/naphatsara5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
