@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
 
 <div align="center">
 
